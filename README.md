@@ -2,9 +2,9 @@
 Some scripts for the 3DR Solo
 
 References
-http://python.dronekit.io/develop/sitl_setup.html
-http://dronecode.github.io/MAVProxy/html/getting_started/download_and_installation.html
-http://dev.3dr.com/starting-installing.html
++ http://python.dronekit.io/develop/sitl_setup.html
++ http://dronecode.github.io/MAVProxy/html/getting_started/download_and_installation.html
++ http://dev.3dr.com/starting-installing.html
 
 Installing
 git clone http://github.com/dronekit/dronekit-python.git
