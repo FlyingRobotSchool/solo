@@ -1,5 +1,4 @@
-# solo
-Some scripts for the 3DR Solo
+# Testing scripts on the simulator
 
 References
 + http://python.dronekit.io/develop/sitl_setup.html
