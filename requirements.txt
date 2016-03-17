@@ -1,0 +1,3 @@
+dronekit>=2.0.0
+pymavlink>=1.1.72
+geopy>=1.11
